@@ -1,3 +1,4 @@
 # PythonAI
-## linear regression
-## linear classification
+## MachineLearning
+### linear_regression
+### linear_classification
